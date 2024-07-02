@@ -27,6 +27,7 @@ ZCoder is a dynamic coding platform designed to help developers practice coding 
 
 ### How to Run
 - First clone the repo using the link in the clone option
+- open terminal change directory from Zcoder to final-branch using command -- cd final-branch
 - npm install
 - npm run dev
 - create another terminal and change directory to Backend using command -- cd Backend
